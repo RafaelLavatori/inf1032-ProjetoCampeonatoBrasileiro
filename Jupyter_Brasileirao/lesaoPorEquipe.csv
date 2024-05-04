@@ -1,0 +1,161 @@
+season,team,injuries,demoted,place
+2016,America-MG,43,Yes,20
+2016,Atletico-MG,56,No,4
+2016,Atletico Paranaense,68,No,6
+2016,Botafogo,44,No,5
+2016,Chapecoense,33,No,11
+2016,Cruzeiro,39,No,12
+2016,Coritiba,50,No,15
+2016,Corinthians,50,No,7
+2016,Figueirense,38,Yes,18
+2016,Flamengo,22,No,3
+2016,Fluminense,29,No,13
+2016,Gremio,54,No,9
+2016,Internacional,40,Yes,17
+2016,Palmeiras,41,No,1
+2016,Ponte Preta,32,No,8
+2016,Santa Cruz,60,Yes,19
+2016,Santos,39,No,2
+2016,Sao Paulo,61,No,10
+2016,Sport,36,No,14
+2016,Vitoria,35,No,16
+2017,Atletico Goianiense,22,Yes,20
+2017,Atletico-MG,42,No,9
+2017,Atletico Paranaense,49,No,11
+2017,Avai,29,Yes,18
+2017,Bahia,44,No,12
+2017,Botafogo,43,No,10
+2017,Chapecoense,40,No,8
+2017,Cruzeiro,55,No,5
+2017,Coritiba,59,Yes,17
+2017,Corinthians,46,No,1
+2017,Flamengo,42,No,6
+2017,Fluminense,41,No,14
+2017,Gremio,61,No,4
+2017,Palmeiras,29,No,2
+2017,Ponte Preta,43,Yes,19
+2017,Santos,51,No,3
+2017,Sao Paulo,55,No,13
+2017,Sport,40,No,15
+2017,Vasco,41,No,7
+2017,Vitoria,52,No,16
+2018,America-MG,40,Yes,18
+2018,Atletico-MG,17,No,6
+2018,Atletico Paranaense,31,No,7
+2018,Bahia,50,No,11
+2018,Botafogo,42,No,9
+2018,Ceara,45,No,15
+2018,Chapecoense,45,No,14
+2018,Cruzeiro,33,No,8
+2018,Corinthians,42,No,13
+2018,Flamengo,25,No,2
+2018,Fluminense,38,No,12
+2018,Gremio,64,No,4
+2018,Internacional,47,No,3
+2018,Palmeiras,28,No,1
+2018,Parana,57,Yes,20
+2018,Santos,47,No,10
+2018,Sao Paulo,44,No,5
+2018,Sport,44,Yes,17
+2018,Vasco,42,No,16
+2018,Vitoria,42,Yes,19
+2019,Atletico-MG,31,No,13
+2019,Atletico Paranaense,26,No,5
+2019,Avai,42,Yes,20
+2019,Bahia,42,No,11
+2019,Botafogo,34,No,15
+2019,Ceara,21,No,16
+2019,Chapecoense,69,Yes,19
+2019,Cruzeiro,32,Yes,17
+2019,Corinthians,49,No,8
+2019,CSA,47,Yes,18
+2019,Flamengo,27,No,1
+2019,Fluminense,36,No,14
+2019,Fortaleza,33,No,9
+2019,Gremio,29,No,4
+2019,Goias,34,No,10
+2019,Internacional,41,No,7
+2019,Palmeiras,24,No,3
+2019,Santos,18,No,2
+2019,Sao Paulo,48,No,6
+2019,Vasco,21,No,12
+2020,Atletico Goianiense,4,No,13
+2020,Atletico-MG,12,No,3
+2020,Atletico Paranaense,18,No,9
+2020,Bahia,18,No,14
+2020,Botafogo,20,Yes,20
+2020,Bragantino,17,No,10
+2020,Ceara,27,No,11
+2020,Coritiba,26,Yes,19
+2020,Corinthians,18,No,12
+2020,Flamengo,17,No,1
+2020,Fluminense,30,No,5
+2020,Fortaleza,17,No,16
+2020,Gremio,22,No,6
+2020,Goias,16,Yes,18
+2020,Internacional,27,No,2
+2020,Palmeiras,20,No,7
+2020,Santos,23,No,8
+2020,Sao Paulo,20,No,4
+2020,Sport,22,No,15
+2020,Vasco,16,Yes,17
+2021,America-MG,33,No,8
+2021,Atletico Goianiense,23,No,9
+2021,Atletico-MG,37,No,1
+2021,Atletico Paranaense,18,No,14
+2021,Bahia,19,Yes,18
+2021,Bragantino,27,No,6
+2021,Ceara,34,No,11
+2021,Chapecoense,50,Yes,20
+2021,Corinthians,31,No,5
+2021,Cuiaba,22,No,15
+2021,Flamengo,42,No,2
+2021,Fluminense,43,No,7
+2021,Fortaleza,21,No,4
+2021,Gremio,34,Yes,17
+2021,Internacional,47,No,12
+2021,Juventude,19,No,16
+2021,Palmeiras,24,No,3
+2021,Santos,33,No,10
+2021,Sao Paulo,44,No,13
+2021,Sport,29,Yes,19
+2022,America-MG,35,No,10
+2022,Atletico Goianiense,21,Yes,18
+2022,Atletico-MG,32,No,7
+2022,Atletico Paranaense,33,No,6
+2022,Avai,62,Yes,19
+2022,Botafogo,66,No,11
+2022,Bragantino,44,No,14
+2022,Ceara,48,Yes,17
+2022,Coritiba,46,No,15
+2022,Corinthians,64,No,4
+2022,Cuiaba,32,No,16
+2022,Flamengo,26,No,5
+2022,Fluminense,34,No,3
+2022,Fortaleza,40,No,8
+2022,Goias,56,No,13
+2022,Internacional,50,No,2
+2022,Juventude,55,Yes,20
+2022,Palmeiras,21,No,1
+2022,Santos,29,No,12
+2022,Sao Paulo,46,No,9
+2023,America-MG,56,Yes,20
+2023,Atletico-MG,37,No,3
+2023,Atletico Paranaense,33,No,8
+2023,Bahia,28,No,16
+2023,Botafogo,36,No,5
+2023,Bragantino,49,No,6
+2023,Coritiba,31,Yes,19
+2023,Corinthians,39,No,13
+2023,Cruzeiro,25,No,14
+2023,Cuiaba,20,No,12
+2023,Flamengo,42,No,4
+2023,Fluminense,25,No,7
+2023,Fortaleza,39,No,10
+2023,Goias,54,Yes,18
+2023,Gremio,37,No,2
+2023,Internacional,45,No,9
+2023,Palmeiras,26,No,1
+2023,Santos,41,Yes,17
+2023,Sao Paulo,55,No,11
+2023,Vasco,23,No,15
